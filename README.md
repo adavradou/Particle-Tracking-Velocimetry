@@ -8,3 +8,5 @@ The functions bpass.m, pkfnd.m, cntrd.m and track.m were found here http://site.
 The PTV_create_backround_image_same_th.m creates the backgound image. It must be run first to create the background image and then run the main code.
 
 The PTV_remove_noise.m is the main PTV code that utilizes all the above functions and the background image. 
+
+More details about its usage can be found in chapter 4.3 here: http://dias.library.tuc.gr/view/76559?show=full
